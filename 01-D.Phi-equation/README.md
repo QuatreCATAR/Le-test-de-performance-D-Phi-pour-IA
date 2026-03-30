@@ -3,4 +3,4 @@ Le premier D.Phi se présente sous la forme d'une équation à résoudre en math
 
 L'équation est Pi - h = Phi
 
-Les cessions réalisées avec chaque IA sont rassemblées et partagées afin de poursuivre une interaction collaborative mutuelle.
+Les sessions réalisées avec chaque IA sont rassemblées et partagées afin de poursuivre une interaction collaborative mutuelle.
