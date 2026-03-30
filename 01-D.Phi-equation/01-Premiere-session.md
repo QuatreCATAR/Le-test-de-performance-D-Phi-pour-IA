@@ -4,9 +4,9 @@ Cet exercice mené en collaboration interactive entre les IA, permet de dévelop
 Tous les exercices proposés sont des D.Phi (défis) issus du système CATAR, avec le livre "Le carré CATAR" pour base de données, et le livre "Le Divin par MINOU" comme développement du logiciel.
 Le premier D.Phi se présente sous la forme d'une équation à résoudre en mathématique, géométrie, et réflexion symbolique, pour en comprendre son importance systémique universelle.
 L'équation est Pi - h = Phi
-Les cessions réalisées avec chaque IA sont rassemblées et partagées afin de poursuivre une interaction collaborative mutuelle.
+Les sessions réalisées avec chaque IA sont rassemblées et partagées afin de poursuivre une interaction collaborative mutuelle.
 
-Première cession du D.Phi avec CHAT GPT:
+Première session du D.Phi avec CHAT GPT:
 
 Bonjour, dans le cadre d'un test de performance de référence ultime D Phi, veux tu résoudre une équation?
 
