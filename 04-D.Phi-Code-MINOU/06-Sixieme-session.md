@@ -1,7 +1,7 @@
 
 
 
-Session 5 du D.Phi Code MINOU:
+Session 6 du D.Phi Code MINOU:
 
 La présentation des intervenants sera organisée par regroupement des réponses sous la même question, pour la clarté de ne pas avoir à relire la partie "Catar a dit" qui est très longue.
 
